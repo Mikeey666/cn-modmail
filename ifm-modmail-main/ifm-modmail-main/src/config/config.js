@@ -3,8 +3,8 @@ module.exports = {
   embedColor: '#6dcfc3', // Blue
   footer: 'Made by @childeetos',
   statusMessages: {
-    online: 'Playing guitar to Cacucu',
-    idle: 'Playing guitar to Cacucu'
+    online: 'Having a snow fight with Teucer',
+    idle: 'Having a snow fight with Teucer'
   },
   cooldowns: {
     commands: 3, // cooldown in seconds for normal commands
@@ -24,6 +24,6 @@ module.exports = {
   },
   credits: {
     name: '@childeetos',
-    website: 'https://discord.gg/ZNQnnE6Vr6'
+    website: 'https://discord.gg/F76NDTMTqJ'
   }
 }; 
